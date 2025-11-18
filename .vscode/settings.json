@@ -9,6 +9,6 @@
   ]
   "files.exclude": {
     "**/.vscode": true
-    "**/extensions" true
+    "**/extensions": true
   }
 }
